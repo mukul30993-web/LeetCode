@@ -12,6 +12,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukul30993-web/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/mukul30993-web/LeetCode/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
