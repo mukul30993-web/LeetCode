@@ -17,4 +17,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukul30993-web/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mukul30993-web/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
