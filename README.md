@@ -8,6 +8,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukul30993-web/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,12 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/mukul30993-web/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mukul30993-web/LeetCode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
