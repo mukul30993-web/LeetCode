@@ -9,6 +9,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mukul30993-web/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
