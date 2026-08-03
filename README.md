@@ -40,4 +40,12 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mukul30993-web/LeetCode/tree/master/0012-integer-to-roman) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mukul30993-web/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mukul30993-web/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
