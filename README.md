@@ -18,6 +18,7 @@ This repository contains my LeetCode solutions.
 | [0008-string-to-integer-atoi](https://github.com/mukul30993-web/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mukul30993-web/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mukul30993-web/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mukul30993-web/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mukul30993-web/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
@@ -51,4 +53,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukul30993-web/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mukul30993-web/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
