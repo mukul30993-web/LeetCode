@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions.
 | [0005-longest-palindromic-substring](https://github.com/mukul30993-web/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mukul30993-web/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukul30993-web/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
@@ -37,6 +38,7 @@ This repository contains my LeetCode solutions.
 | [0011-container-with-most-water](https://github.com/mukul30993-web/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mukul30993-web/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mukul30993-web/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukul30993-web/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
@@ -63,4 +65,5 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukul30993-web/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mukul30993-web/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
