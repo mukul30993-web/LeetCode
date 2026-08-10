@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions.
 | [0013-roman-to-integer](https://github.com/mukul30993-web/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mukul30993-web/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mukul30993-web/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mukul30993-web/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mukul30993-web/LeetCode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -83,5 +84,10 @@ This repository contains my LeetCode solutions.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mukul30993-web/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mukul30993-web/LeetCode/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mukul30993-web/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
