@@ -62,10 +62,12 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mukul30993-web/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mukul30993-web/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/mukul30993-web/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukul30993-web/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/mukul30993-web/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Trie
 |  |
 | ------- |
