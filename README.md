@@ -51,6 +51,7 @@ This repository contains my LeetCode solutions.
 | [0018-4sum](https://github.com/mukul30993-web/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mukul30993-web/LeetCode/tree/master/0035-search-insert-position) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +121,5 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mukul30993-web/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/mukul30993-web/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
